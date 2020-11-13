@@ -1,0 +1,30 @@
+#Lat_title{
+    color:rgb(63, 147, 153);
+    font-size:25px;
+    font-weight: bold;
+}
+
+#tempimg{
+    float: left;
+    margin-right: 10px;
+}
+
+#visual{
+    float: top
+}
+
+#heading{
+    color: rgb(60, 104, 165);
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#caption{
+    color: rgb(65, 65, 70);
+    font-size: 12px;
+}
+
+#title{
+    color: rgb(60, 104, 165);
+    font-size: 25px;
+}
